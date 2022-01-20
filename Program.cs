@@ -1,13 +1,13 @@
 ﻿using System;
 
-namespace submodule-01
+namespace submodule01
 {
-    class ProgramSubModule01
+    class Program
     {
         static void Main(string[] args)
         {
 			Console.WriteLine("+------------------------------------------+");
-			Console.WriteLine("| Program: submodule-01                    |");
+			Console.WriteLine("| Program: submodule01                     |");
 			Console.WriteLine("+------------------------------------------+");
 			Console.WriteLine("| C# Program by Harold Adrian Bolaños R    |");
 			Console.WriteLine("| This is a .Net Pilot for rollout CI/CD   |");
